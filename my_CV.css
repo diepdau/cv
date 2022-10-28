@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;600;700&family=Lato:wght@300&family=Open+Sans:wght@300&family=Pattaya&family=Poppins:wght@200&family=Roboto:wght@300;400&family=Tajawal:wght@200&display=swap');
+:root{
+    --main--color: rgb(65, 64, 64);
+    
+}
+
+ul{
+    margin: 0px;
+    padding: 0px;
+}
+p{
+    margin: 0px;
+
+}
+.khungnen{
+    margin: 100px 200px;
+    box-sizing: border-box;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+    display: flex;
+    height: 1130px;
+
+}
+
+.khungtrai{
+    background-color: rgb(191, 255, 127);
+    width: 260px;
+    height: auto;
+
+}
+.khungphai{
+    width: 100%;
+    height: 230px;
+    background-color: var(--main--color);
+    z-index: -1;
+}
+.khungtrai .hinh img{
+    width:12em;
+    height: auto;
+    border-radius: 50%;
+    text-align: center;
+    border: 6px solid white;
+    margin: 12px;
+}
+.lienhe{
+    display: flex;
+   
+}
+.fa{
+    font-size: 28px;
+    padding: 18px;
+    list-style: none;
+}
+.khtr ul li{
+    list-style: none;
+}
+
+.lienhe{
+    text-decoration: none;
+    color: rgb(65, 64, 64);
+}
+.lienhe p{
+    margin: 10px 0px;
+}
+.tieude{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 22px;
+    font-weight: bold;
+    background-color:rgb(65, 64, 64);
+    color: white;
+    margin: 20px 0px;
+}
+.skills p{
+    color:rgb(65, 64, 64); 
+    margin:18px 0px  8px 0px ;
+
+}
+.chinh{
+    width: 200px;
+    background-color:rgb(65, 64, 64); 
+    height: 2px;
+    border-radius: 50px;
+}
+.phu{
+    width: 6px;
+    height: 6px;
+    border-radius:50% ;
+    background-color: var(--main--color);
+    position: absolute;
+    margin-top: -2px ;
+    margin-left: 120px;
+}
+.hat2{
+    margin-left: 160px;
+}
+.hat3{
+    margin-left: 80px;
+}
+.hat4{
+    margin-left: 180px;
+}
+.hat5{
+    margin-left: 120px;
+}
+.skills{
+    margin: 8px 14px;
+}
+.tendam{
+    font-weight: bold;
+}
+.awar{
+    margin: 12px 16px;
+}/*khungphai*/
+.ten{
+    font-family: 'Dancing Script';
+    color: white;
+    font-weight: bold;
+    font-size: 6em;
+    text-align: center;
+    margin-top: 50px;
+
+}
+.khungphai .mucphu{
+    text-align: center;
+    font-size: 1rem;
+    text-align: center;
+    color: white;
+    margin: 12px 0px;
+}
+.tieudephai{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 22px;
+    background-color:rgb(191, 255, 127);
+    color: var(--main--color);
+    margin: 20px 0px;
+}
+.khphtr{
+    margin: 80px 30px;
+}
+.truong{
+    display: flex;
+    padding: 4px 12px;
+}
+.truong .nam{
+   padding: 0px 64px 0px 0px;
+}
+.truong section{
+    border-left: 1px solid var(--main--color);
+    padding:0px 12px ;
+    margin: 6px 0px;
+    
+}
+.truong section p{
+   margin-bottom: 4px;
+} 
+.hat6{
+    margin-left: -17px;
+    width: 8px;
+    height: 8px;
+}
+.nd{
+    text-align: justify;
+}
+
